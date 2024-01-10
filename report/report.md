@@ -15,12 +15,23 @@ In this section, describe the analysis you completed for the machine learning mo
 Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all machine learning models.
 
 * Machine Learning Model 1:
-  * Description of Model 1 Accuracy, Precision, and Recall scores.
-
+  * Accuracy: 0.99
+  * Precision
+    * Class 0: 1.00
+    * Class 1: 0.85
+  * Recall 
+    * Class 0: 0.99
+    * Class 1: 0.91
 
 
 * Machine Learning Model 2:
-  * Description of Model 2 Accuracy, Precision, and Recall scores.
+  * Accuracy: 0.99
+    * Precision
+      * Class 0: 1.00
+      * Class 1: 0.84
+    * Recall 
+      * Class 0: 0.99
+      * Class 1: 0.99
 
 ## Summary
 
